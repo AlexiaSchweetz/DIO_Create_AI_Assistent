@@ -1,0 +1,3 @@
+Quero que a IA gere um texto explicativo sobre programação para pessoas interessadas na área da programação, com o objetivo de inspirar e motivar aspirantes a programador que estão passando por dificuldades nos estudos. 
+Considere o seguinte contexto: Um jovem adulto com interesse em computação decide iniciar uma faculdade de análise de sistemas mas se assusta a se deparar com nomes difíceis e lógicas complexas. Como você inspiraria essa pessoa a não desistir?
+O conteúdo deve ter 3 a 5 parágrafos e um tema leve e divertido. Evite palavras difíceis e conceitos aprofundados.
